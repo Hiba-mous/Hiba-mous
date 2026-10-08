@@ -6,7 +6,7 @@ I build projects in **applied AI, data engineering, and software development**. 
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [Arabic Handwritten Character Recognition](https://github.com/Hiba-mous/arabic-handwritten-character-recognition) | Recognizing 28 Arabic letters through a drawing and image-upload interface; a joint project with Drissi Marwane | Python, TensorFlow/Keras, Streamlit, OpenCV |
+| [Arabic Handwritten Character Recognition](https://github.com/Hiba-mous/arabic-handwritten-character-recognition) | Recognizing 28 Arabic letters through a drawing and image-upload interface | Python, TensorFlow/Keras, Streamlit, OpenCV |
 | [Food Recommendation Desktop App](https://github.com/Hiba-mous/Recommendation-systemOfFood) | Meal browsing, recipe information, and a recommendation prototype | Java, JavaFX, MongoDB |
 
 ## Other project experience
